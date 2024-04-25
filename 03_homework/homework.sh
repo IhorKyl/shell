@@ -33,11 +33,20 @@ ls fld5/*.txt
 echo " and machine learning!" >> fld1/f.txt
 
 # 6. How would you verify that the text was indeed appended to the existing file?
+code fld1/f.txt
 
 # 7. How would you delete all files except for the one with the appended text?
+mkdir save/
+mv fld1/f.txt save/
+rm fld1/*
 
 # 8. How would you navigate back to the parent directory containing all the directories?
+cd
+#or
+cd ~
 
 # 9. How would you remove each directory along with its contents?
+rm -r -f  ~/
 
 # 10. How would you verify that all directories and files have been deleted?
+ls
