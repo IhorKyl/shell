@@ -34,12 +34,10 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-1. Paper Rings
-2. 10
-3. meets
-4. and
-5. the
-6. stars
+Your answer here...
+
+
+
 
 ```
 
